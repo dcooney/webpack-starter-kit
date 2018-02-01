@@ -4,6 +4,12 @@
 $ npm install
 ```
 
-` "start": "webpack"`
-`"watch": "webpack -w"`
-`"build": "webpack -p"`
+```
+"start": "webpack"
+```
+```
+"watch": "webpack -w"
+```
+```
+"build": "webpack -p"
+```
