@@ -3,13 +3,9 @@
 ```
 $ npm install
 ```
-
 ```
-"start": "webpack"
-```
-```
-"watch": "webpack -w"
+"watch": "npm run start"
 ```
 ```
-"build": "webpack -p"
+"build": "npm run build"
 ```
