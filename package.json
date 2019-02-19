@@ -1,7 +1,7 @@
 {
 	"name": "WebpackStarterKit",
 	"version": "1.0.0",
-	"description": "A readable webpack starter configuartion.",
+	"description": "A readable webpack starter configuration.",
 	"main": "src/js/index.js",
 	"scripts": {
 		"start": "webpack -w --mode development --config=webpack/dev.config.js",
